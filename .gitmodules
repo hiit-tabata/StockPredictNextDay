@@ -1,0 +1,3 @@
+[submodule "StockPredictNextDay"]
+	path = StockPredictNextDay
+	url = git@github.com:hmtai6/StockPredictNextDay.git
